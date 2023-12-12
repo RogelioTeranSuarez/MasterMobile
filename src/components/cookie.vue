@@ -1,6 +1,6 @@
 <template>
     <div v-if="showCookieBanner" class="cookie-banner">
-      <p>Este sitio web utiliza cookies. Al hacer clic en "Aceptar", aceptas el uso de cookies.</p>
+      <p>Master Mobile utiliza cookies. Al hacer clic en "Aceptar", aceptas el uso de cookies.</p>
       <button @click="acceptCookies">Aceptar</button>
       <button @click="rejectCookies">Rechazar</button>
     </div>
