@@ -1,0 +1,104 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Dedales antisudor Razer",
+            "descripcion_corta": "Razer Manga de Dedo para Videojuegos, Funda Antideslizante para Juegos móviles",
+            "descripcion": "Superficie completamente cubierta con fibra de carbono. No solo reduce la fricción en la pantalla, sino que también puede restaurar con precisión cada clic, sin deslizamiento de errores, le permite obtener una impresionante experiencia de juego suave.",
+            "precio": 603.13,
+            "stock": 100,
+            "imagen": "src/assets/producto_01.png",
+            "imagen2": "../../src/assets/producto_01.png"
+        },
+        {
+            "id": 2,
+            "nombre": "Gatillo físico para shooter",
+            "descripcion_corta": "Razer Manga de Dedo para Videojuegos, Funda Antideslizante para Juegos móviles",
+            "descripcion": "Los controladores de juegos móviles en hechos con sensor de metal especial y fáciles de aplicar en tu teléfono, los botones sensibles te ayudan a disfrutar mejor de tu juego. La alfombrilla antideslizante integrada hace que sea más eble en tu teléfono mientras juegas, lo que te ayudará a disfrutar de u mejor experiencia de juego.",
+            "precio": 315.23,
+            "stock": 100,
+            "imagen": "src/assets/producto_02.png",
+            "imagen2": "../../src/assets/producto_02.png"
+        },
+        {
+            "id": 3,
+            "nombre": "Mica de cristal templado",
+            "descripcion_corta": "Mica de cristal templado para iPhone 5,8in con borde negro",
+            "descripcion": "El paquete incluye 2 micas de borde negro de iPhone X y 2 Kits de instalación que incluye , estampas para quitar polvo, toalla húmeda para limpiar, toalla seca para secar la pantalla. La mica tiene una transparencia de 99% lo que le da una total vista clara.",
+            "precio": 179.00,
+            "stock": 100,
+            "imagen": "src/assets/producto_03.png",
+            "imagen2": "../../src/assets/producto_03.png"
+        },
+        {
+            "id": 4,
+            "nombre": "Ventilador Black Shark Funcooler 2 Pro",
+            "descripcion_corta": "Ventilador refrigereador para telefono RGB para iPhone y Android",
+            "descripcion": "El enfriador de teléfono para juegos logra un enfriamiento rápido en un instante con un ventilador de 7 aspas, una columna de enfriamiento de aleación, un chip de enfriamiento y una placa fría, que pueden mejorar efectivamente el rendimiento de disipación de calor. Aumente el equipo de control de temperatura inteligente, controle la temperatura del dispositivo a través del chip de control de temperatura, cambie automáticamente el nivel de enfriamiento, ahorre energía y se preocupe.",
+            "precio": 699.99,
+            "stock": 100,
+            "imagen": "src/assets/producto_04.png",
+            "imagen2": "../../src/assets/producto_04.png"
+        },
+        {
+            "id": 5,
+            "nombre": "Fundas para dedos para juegos",
+            "descripcion_corta": "Fundas para dedos antisudor, transpirable, guantes de dedo para pulgar para LoL, PUBG",
+            "descripcion": "Es un nuevo material para usar en las mangas de los dedos. La fibra de vidrio y plata es súper suave y transpirable que no puedes sentir que está usando. Se adapta perfectamente a cada dedo sin apretar. Cada dedo puede sentir la suavidad y delicadeza del material.",
+            "precio": 245.55,
+            "stock": 100,
+            "imagen": "src/assets/producto_05.png",
+            "imagen2": "../../src/assets/producto_05.png"
+        },
+        {
+            "id": 6,
+            "nombre": "Funda protectora para Rog Ally",
+            "descripcion_corta": "Funda protectora para Rog Ally con soporte, funda protectora de TPU con soporte plegable",
+            "descripcion": "Protección completa: la funda de TPU con soporte está especialmente diseñada para ASUS Rog Ally 2023 Game Handheld, proporcionando una protección completa contra arañazos, golpes y caídas accidentales. El material de TPU garantiza durabilidad y absorción de impactos, mantiene la consola de juegos lejos de arañazos y obtiene una protección contra impactos de mayor rendimiento.",
+            "precio": 413.71,
+            "stock": 100,
+            "imagen": "src/assets/producto_06.png",
+            "imagen2": "../../src/assets/producto_06.png"
+        },
+        {
+            "id": 7,
+            "nombre": "Xiaomi Cargador 67W",
+            "descripcion_corta": "SGQGS para Xiaomi Cargador 67W Mi Turbo Fast Wall Charger Carga rápida para Xiaomi",
+            "descripcion": "67W Xiaomi Charger Turbo: e cargador Xiaomi 13 e diseñado especialmente para Xiaomi teléfono celular carga rápida. La potencia máxima es de 67 W,patible con 55 W/33 W/18 W. otros teléfonos de marca, la potencia es de 10-20 W dependiendo del protocolo de carga del teléfono. Ten en cuenta que este cargador no es adecuado para la carga rápida del portátil.",
+            "precio": 299.99,
+            "stock": 100,
+            "imagen": "src/assets/producto_07.png",
+            "imagen2": "../../src/assets/producto_07.png"
+        },
+        {
+            "id": 8,
+            "nombre": "REDMAGIC 7S PRO",
+            "descripcion_corta": "REDMAGIC - Teléfonos para juegos (6S Pro 128 Negro, 12+128 GB) ",
+            "descripcion": "Pantalla móvil más suave: Teléfono para juegos con una frecuencia de actualización de 165 Hz, esta pantalla AMOLED de 6.8 pulgadas ofrece hermosas imágenes HD de hasta 165 fotogramas por segundo. Cámara cuádruple Ultra HD: La cámara trasera es de 64 m, 8 m, 2 m y soporta resolución de 8 K a 30 fps, 4 K a 60 fps, 1080 p a 60 fps, 720 p a 30 fps. El gran ángulo respectivamente es de 78.3, 120 y 78 grados. ",
+            "precio": 12000.99,
+            "stock": 100,
+            "imagen": "src/assets/producto_08.png",
+            "imagen2": "../../src/assets/producto_08.png"
+        },
+        {
+            "id": 9,
+            "nombre": "Gamepad Bluetooth para Android",
+            "descripcion_corta": "Archy Gamepad Bluetooth Control Inalambrico Mando Joystick Compatible con Android",
+            "descripcion": "PRECISO: Respuesta de toque rápida y precisa a cada presión, sin retraso de respuesta. COMPATIBLE: Alta compatibilidad con dispositivos android, celulares o tablets, bluetooth 4.0 de alta compatibilidad. USOS: Además del modo gamepad también lo puedes conectar como mouse o control de la interfaz de tu celular o tablet. ",
+            "precio": 309.09,
+            "stock": 100,
+            "imagen": "src/assets/producto_09.png",
+            "imagen2": "../../src/assets/producto_09.png"
+        },
+        {
+            "id": 10,
+            "nombre": "Audifonos Gamer para Android",
+            "descripcion_corta": "YOMYM Audifonos Gamer con Micrófono Cancelación de Ruido y Luz LED, Audifonos con Sonido Envolvente 7.1",
+            "descripcion": "OMYM Auriculares para juegos, potente controlador de 50 mm integrado y sonido envolvente omnidireccional 7.1 nítido. Crea un sonido envolvente 3D envolvente para sumergirte en sus juegos. Perfecto para varios juegos como Halo 5 Guardians, Metal Gear Solid, Call of Duty, Star Wars Battlefront, Overwatch, World of Warcraft Legion, etc. ",
+            "precio": 399.99,
+            "stock": 100,
+            "imagen": "src/assets/producto_10.png",
+            "imagen2": "../../src/assets/producto_10.png"
+        }
+    ]
+}
